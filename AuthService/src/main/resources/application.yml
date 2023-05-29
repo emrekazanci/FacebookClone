@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: ${CONFIG_SERVER} #Bunu localhost olarak env a attık. Bulutta çalışırken zaten git üzerinden olacak. Local de çalışırkende burdan
+  config:
+    import: "configserver:"
+  application:
+    name: auth-service-application

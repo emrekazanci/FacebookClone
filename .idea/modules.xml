@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiGatewayService/Facebook.ApiGatewayService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiGatewayService/Facebook.ApiGatewayService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AuthService/Facebook.AuthService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AuthService/Facebook.AuthService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServer/Facebook.ConfigServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServer/Facebook.ConfigServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServerGit/Facebook.ConfigServerGit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServerGit/Facebook.ConfigServerGit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ElasticService/Facebook.ElasticService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ElasticService/Facebook.ElasticService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PostService/Facebook.PostService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PostService/Facebook.PostService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserService/Facebook.UserService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserService/Facebook.UserService.main.iml" />
+    </modules>
+  </component>
+</project>

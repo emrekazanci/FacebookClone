@@ -1,0 +1,30 @@
+server:
+  port: 9093
+
+spring:
+  security:
+    user:
+      name: emre
+      password: 123456
+  zipkin:
+    enabled: true
+    base-url: http://localhost:9411
+    service:
+      name: user-service
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: java7
+    password: root
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: FacebookDB
+      username: Java7User
+      password: root
+
+my-application:
+  redis-host: localhost
+  jwt:
+    secret-key: "sT*&r4b1EDra45fEXO7A#rAZaJ$Y-CrA2#L=9lGox!*R@=ReSpUsWOk6T-qeflmi"
